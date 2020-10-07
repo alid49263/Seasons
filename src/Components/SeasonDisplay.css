@@ -1,0 +1,46 @@
+*{
+ padding: none;
+ box-sizing: border-box;
+}
+i.sun{
+   color: yellow;
+}
+i.snowflake{
+   color:blue;
+   
+}
+i.sun h1{
+   color:orange
+}
+.icon-left{
+    position: absolute;
+    top:10%;
+    left:10%;
+}
+.icon-right{
+    position: absolute;
+    bottom:10%;
+    right:10%;
+}
+h1.Summer{
+    display:grid;
+    place-items: center;
+    color: beige;
+}
+h1.Winter{
+    display:grid;
+    place-items: center;
+    color: cadetblue;
+}
+div {
+    display:grid;
+    height:100%;
+    width:100%;
+    place-items: center;
+}
+div.Summer{
+    background-color:orange;
+}
+div.Winter{
+    background-color:lightblue;
+}
