@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/seasons/static/css/main.4c1bf5a5.chunk.css",
+    "main.js": "/seasons/static/js/main.47f28fbb.chunk.js",
+    "main.js.map": "/seasons/static/js/main.47f28fbb.chunk.js.map",
+    "runtime-main.js": "/seasons/static/js/runtime-main.53d2d0be.js",
+    "runtime-main.js.map": "/seasons/static/js/runtime-main.53d2d0be.js.map",
+    "static/css/2.37fd1d42.chunk.css": "/seasons/static/css/2.37fd1d42.chunk.css",
+    "static/js/2.fc9260b8.chunk.js": "/seasons/static/js/2.fc9260b8.chunk.js",
+    "static/js/2.fc9260b8.chunk.js.map": "/seasons/static/js/2.fc9260b8.chunk.js.map",
+    "index.html": "/seasons/index.html",
+    "precache-manifest.83b3e99e48c726ad044b965147b05e4b.js": "/seasons/precache-manifest.83b3e99e48c726ad044b965147b05e4b.js",
+    "service-worker.js": "/seasons/service-worker.js",
+    "static/css/2.37fd1d42.chunk.css.map": "/seasons/static/css/2.37fd1d42.chunk.css.map",
+    "static/css/main.4c1bf5a5.chunk.css.map": "/seasons/static/css/main.4c1bf5a5.chunk.css.map",
+    "static/js/2.fc9260b8.chunk.js.LICENSE.txt": "/seasons/static/js/2.fc9260b8.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/seasons/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53d2d0be.js",
+    "static/css/2.37fd1d42.chunk.css",
+    "static/js/2.fc9260b8.chunk.js",
+    "static/css/main.4c1bf5a5.chunk.css",
+    "static/js/main.47f28fbb.chunk.js"
+  ]
+}
